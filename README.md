@@ -1,17 +1,8 @@
-# ProofOfConcept-DSW
-Universidad Tecnologica Nacional - Facultad Regional Rosario
+# React + Vite
 
-Asignatura: Desarrollo de Software
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Comision 303
+Currently, two official plugins are available:
 
-Integrantes del grupo:
-
-* Albónico, Agustín
-
-* Spitteler Fuentealba, Jackeline Ivon
-
-* Strappini Santilli, Liza
-
-* Aguado, Matias
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
