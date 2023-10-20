@@ -5,10 +5,13 @@ Asignatura: Desarrollo de Software
 
 Comision 303
 
-Integrantes del grupo
+Integrantes del grupo:
 
-*Albónico, Agustín
-*Spitteler Fuentealba, Jackeline Ivon
-*Strappini Santilli, Liza
-*Aguado, Matias
+* Albónico, Agustín
+
+* Spitteler Fuentealba, Jackeline Ivon
+
+* Strappini Santilli, Liza
+
+* Aguado, Matias
 
